@@ -1,0 +1,9 @@
+{
+  "name": "Smart Health Finder",
+  "description": "A comprehensive telemedicine platform for patients to find doctors by disease/symptoms and conduct real-time video consultations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
